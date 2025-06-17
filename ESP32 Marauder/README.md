@@ -4,7 +4,7 @@
 
 ### Setup
 1. Connect your ESP32 to your device or laptop.
-2. Go to the [ESP32 Flash Download Tool](https://docs.espressif.com/projects/esp-test-tools/en/latest/esp32/production_stage/tools/flash_download_tool).
+2. Go to the [ESP32 Flash Download Tool](https://esp.huhn.me/).
 3. Click the **CONNECT** button.  
    <img src="https://github.com/user-attachments/assets/e01ba71f-daed-40a4-892c-f344f3110732" width="400"/>
 4. Select your **COM port**.  
@@ -78,5 +78,6 @@
 
 - Download the [latest firmware release](https://github.com/justcallmekoko/ESP32Marauder/releases/latest).
 - Visit the project [Wiki](https://github.com/justcallmekoko/ESP32Marauder/wiki) for a full overview and additional documentation.
+- ESP32 Driver [Here](https://docs.espressif.com/projects/esp-test-tools/en/latest/esp32/production_stage/tools/flash_download_tool)
 
 ---
