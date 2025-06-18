@@ -75,12 +75,19 @@ Install these through the Arduino Library Manager.
 
 ## 📸 Screenshots
 
-![image](https://github.com/user-attachments/assets/977b13f9-8bc2-4f49-be8d-8ab2ff15629e)
-![image](https://github.com/user-attachments/assets/29fe0f6b-5f79-496a-a40b-157ce454c844)
-
-
-*Sample drawing interface on browser*
-![WhatsApp Image 2025-06-18 at 12 24 06_983c6525](https://github.com/user-attachments/assets/e3c24e36-a8cc-4be6-8cc1-246dc12ba6b9)
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/977b13f9-8bc2-4f49-be8d-8ab2ff15629e" width="300" /></td>
+    <td><img src="https://github.com/user-attachments/assets/29fe0f6b-5f79-496a-a40b-157ce454c844" width="300" /></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><em>Sample drawing interface on browser</em></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/e3c24e36-a8cc-4be6-8cc1-246dc12ba6b9" width="300" /></td>
+    <td><img src="https://github.com/user-attachments/assets/63ab7614-b772-40bd-8d50-fcb615a67d8e" width="300" /></td>
+  </tr>
+</table>
 
 ---
 
