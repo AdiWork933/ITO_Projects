@@ -31,3 +31,20 @@ The **ESP32 Marauder** is a powerful WiFi and Bluetooth hacking toolkit based on
 This setup is ideal for testing network security, understanding how WiFi works, and learning about potential vulnerabilities in a controlled environment.
 
 ---
+
+### ESP8266 Draw
+
+The **ESP8266 Draw** is a compact, web-based wireless drawing pad built using the ESP8266 microcontroller and an ILI9341 TFT display. It offers an interactive touchscreen interface accessible over WiFi, allowing users to sketch and draw in real-time from any browser.
+
+**Key features:**
+- Turns the ESP8266 into a local WiFi access point serving a web-based drawing canvas.
+- Allows drawing directly on a touchscreen (ILI9341) using finger or stylus.
+- Supports multiple colors, brush sizes, eraser, and clear canvas options.
+- Touch-friendly web interface works across phones, tablets, and computers.
+- No internet required – works entirely offline via `ESP_Draw` WiFi.
+- Easy to deploy using Arduino IDE and open-source libraries.
+- Ideal for IoT learning, interactive art projects, and embedded GUI experimentation.
+
+👉 [All setup guide here](https://github.com/AdiWork933/ITO_Projects/tree/main/ESP8266_Draw)
+
+This project is perfect for exploring web-based interfaces on microcontrollers, learning about embedded touch UIs, and creating interactive, offline art stations.
