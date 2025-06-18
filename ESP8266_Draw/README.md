@@ -75,7 +75,8 @@ Install these through the Arduino Library Manager.
 
 ## 📸 Screenshots
 
-![Drawing Interface](https://via.placeholder.com/600x400?text=Web+Canvas+Screenshot)
+![image](https://github.com/user-attachments/assets/977b13f9-8bc2-4f49-be8d-8ab2ff15629e)
+
 *Sample drawing interface on browser*
 
 ---
