@@ -34,17 +34,19 @@ This project can be used as:
 | Jumper Wires        | For wiring TFT to NodeMCU            |
 | Power Supply        | USB cable or 5V external supply       |
 
-### 🧾 Wiring (NodeMCU ↔ ILI9341)
+## Wiring Table (ILI9341 TFT with ESP8266 NodeMCU)
 
-| ILI9341 Pin | NodeMCU Pin |
-|-------------|-------------|
-| CS          | D1 (GPIO5)  |
-| DC/RS       | D2 (GPIO4)  |
-| RST         | D4 (GPIO2)  |
-| MOSI        | D7 (GPIO13) |
-| SCK         | D5 (GPIO14) |
-| VCC         | 3.3V        |
-| GND         | GND         |
+| TFT Pin      | NodeMCU Pin   | Function               |
+|--------------|----------------|-------------------------|
+| VCC          | 3.3V           | Power Supply            |
+| GND          | GND            | Ground                  |
+| CS           | D1 (GPIO5)     | Chip Select             |
+| RESET        | D4 (GPIO2)     | Reset                   |
+| DC/RS        | D2 (GPIO4)     | Data/Command            |
+| MOSI (SDA)   | D7 (GPIO13)    | SPI MOSI                |
+| SCK          | D5 (GPIO14)    | SPI Clock               |
+| LED          | 3.3V or D6     | Backlight (PWM optional) |
+
 
 ---
 
