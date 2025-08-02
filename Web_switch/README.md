@@ -1,6 +1,6 @@
 # ESP8266 Web Switch
 
-<img width="100%" alt="ESP8266 Web Switch UI" src="https://github.com/user-attachments/assets/08eacf87-f6ba-47f2-ac17-01ef16d4415b" />
+<img width="1749" height="504" alt="image" src="https://github.com/user-attachments/assets/7cc1b4f8-96e8-48f4-9959-fd5df9c43ac3" />
 
 Simple web-controlled switch for ESP8266 with manual and timed ON/OFF.  
 **Logic:** ON = LOW, OFF = HIGH.
